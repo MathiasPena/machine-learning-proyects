@@ -29,6 +29,3 @@ Este proyecto implementa el algoritmo de **Regresión Lineal** para predecir val
    - Carga los datos al entorno de Google Colab o localmente.
    - Entrena el modelo de Regresión Lineal con los datos proporcionados.
    - Analiza los gráficos y las métricas generadas al final del notebook.
-
-## Contribuciones
-Se incluyen pasos para que otros desarrolladores puedan extender este modelo a otros conjuntos de datos o probar con características adicionales.
