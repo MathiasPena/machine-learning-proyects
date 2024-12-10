@@ -10,7 +10,7 @@ Este repositorio contiene una colección de proyectos de Machine Learning diseñ
 - **Algoritmos**: Árbol de Decisión, Random Forest.
 - **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 - **Resultados**: Se lograron precisiones destacables, con mejoras al usar Random Forest.
-- [Más detalles](./DecisionTree_and_RandomForest/DecisionTree_&_RandomForest.ipynb)
+- [Más detalles](./DecisionTree_&_RandomForest/)
 
 ---
 
@@ -19,7 +19,7 @@ Este repositorio contiene una colección de proyectos de Machine Learning diseñ
 - **Algoritmos**: K-Means.
 - **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 - **Resultados**: Visualización clara de grupos generados en múltiples dimensiones.
-- [Más detalles](./KMeans/K-Means.ipynb)
+- [Más detalles](./K-Means/)
 
 ---
 
@@ -28,7 +28,7 @@ Este repositorio contiene una colección de proyectos de Machine Learning diseñ
 - **Algoritmos**: KNN, Regresión Lineal.
 - **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 - **Resultados**: KNN mostró gran precisión en clasificación, mientras que la Regresión Lineal modeló con precisión variables continuas.
-- [Más detalles](./KNN_and_LinearRegression/KNN_&_LinearRegresion.ipynb)
+- [Más detalles](./KNN_&_LinearRegression2/)
 
 ---
 
@@ -37,7 +37,7 @@ Este repositorio contiene una colección de proyectos de Machine Learning diseñ
 - **Algoritmos**: Regresión Lineal.
 - **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 - **Resultados**: Modelo preciso y evaluación detallada del error cuadrático medio.
-- [Más detalles](./LinearRegression/LinearRegresion.ipynb)
+- [Más detalles](./LinearRegresion/)
 
 ---
 
@@ -46,7 +46,7 @@ Este repositorio contiene una colección de proyectos de Machine Learning diseñ
 - **Algoritmos**: Regresión Logística.
 - **Tecnologías**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 - **Resultados**: Alta precisión en clasificación con métricas claras como recall y F1-score.
-- [Más detalles](./LogisticRegression/LogisticRegresion.ipynb)
+- [Más detalles](./LogisticRegresion/)
 
 ---
 
