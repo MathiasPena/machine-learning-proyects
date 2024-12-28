@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 ## Descripción
-Este repositorio contiene una colección de proyectos de Machine Learning diseñados para resolver diferentes problemas de clasificación, regresión y agrupación de datos. Cada proyecto implementa algoritmos fundamentales, proporcionando análisis detallados, evaluaciones de rendimiento y visualizaciones de resultados.
+Este repositorio contiene una colección de proyectos de Machine Learning diseñados para resolver diferentes problemas de clasificación, regresión y agrupación de datos. Cada proyecto implementa algoritmos fundamentales, proporcionando análisis detallados, evaluaciones de rendimiento y visualizaciones de resultados. 
 
 ## Proyectos Incluidos
 
